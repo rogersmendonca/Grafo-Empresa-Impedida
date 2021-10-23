@@ -1,7 +1,7 @@
 # Grafo-Empresa-Impedida
 Programa em Python que utiliza Grafos para identificar empresas impedidas de ser contratadas por empresa pública ou sociedade de economia mista, de acordo com o artigo 38 da [Lei 13.303/2016  (Lei das Estatais)](http://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13303.htm).
 
-Trabalho apresentado no 6º Seminário Internacional sobre Análise de Dados na Administração Pública, em 29/09/2020 ([Link do YouTube](https://youtu.be/aCRY8ZQDGS4)).
+Trabalho apresentado no 6º Seminário Internacional sobre Análise de Dados na Administração Pública, em 29/09/2020 ([Vídeo da Apresentação no YouTube](https://youtu.be/aCRY8ZQDGS4)).
 
 ## Linha de Comando
 `python -m empresa_impedida --csv_edges=<valor> --txt_impedimentos=<valor>`
